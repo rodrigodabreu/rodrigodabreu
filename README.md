@@ -27,13 +27,12 @@
 
 <p align="left">
   <a href="https://instagram.com/rodabreu" target="_blank" alt="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/rodabreu/"/></a>
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/rodabreu/"/>
+  </a>
   
   <a href="https://www.linkedin.com/in/rodabreu/" target="_blank" alt="Linkedin">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rodabreu/" /></a>
-
-  <a href="https://twitter.com/rod_abreu" target="_blank" alt="Twitter">
-  <img src="https://img.shields.io/badge/-Twitter-3b5998?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/rod_abreu/"/></a>
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rodabreu/" />
+  </a>
 </p>
 
 ---
