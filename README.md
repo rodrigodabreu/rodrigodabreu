@@ -2,7 +2,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/rodrigodabreu)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/rodabreu/)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:rodrigodiasdeabreu@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:rodrigodiasdeabreu@gmail.com?subject=First%20contact%20from%20Github&body=Hi%20Rodrigo%2C%0A%0AI%20find%20you%20at%20github%20...)
 
 ### Glad to see you here! 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rodrigodabreu&label=Profile%20views&color=0e75b6&style=flat" alt="rodrigodabreu" /> </p>
