@@ -1,0 +1,18 @@
+# General macOS files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# macOS system files
+Icon?
+._*
+.Spotlight-V100
+.Trashes
+.VolumeIcon.icns
+.fseventsd
+
+# macOS Finder settings
+*.swp
+*.lock
+*.swo
+*.DS_Store
