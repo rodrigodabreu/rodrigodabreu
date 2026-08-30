@@ -16,20 +16,6 @@ I'm a Senior Backend Software Engineer with 8+ years of experience building and 
 - 📫 How to reach me: rodrigodiasdeabreu@gmail.com
 - 🌐 Full portfolio: [rodrigodabreu.github.io](https://rodrigodabreu.github.io/)
 
-<details>
-<summary>🇧🇷 Ler em português</summary>
-<br/>
-
-Sou Engenheiro de Software Backend Sênior, com 8+ anos de experiência construindo e modernizando sistemas críticos para o setor bancário na **Unicred do Brasil**. Minha stack principal é Java, Spring Boot e Kafka, com foco em microsserviços e arquitetura orientada a eventos. Minha formação em Administração, somada à Análise e Desenvolvimento de Sistemas, me dá uma leitura mais ampla do lado de negócio dos sistemas que construo.
-
-- 🔭 Atualmente trabalhando em: microsserviços de core-banking e integrações Open Finance Brasil
-- 💼 Experiência em produtos: Cobrança, Adquirência, Conta Corrente
-- 💬 Fale comigo sobre: sistemas distribuídos, arquitetura de eventos, backend Java
-- 📫 Como me encontrar: rodrigodiasdeabreu@gmail.com
-- 🌐 Portfólio completo: [rodrigodabreu.github.io](https://rodrigodabreu.github.io/)
-
-</details>
-
 ### Languages and Tools:
 
 <div align="center">
@@ -54,4 +40,18 @@ Sou Engenheiro de Software Backend Sênior, com 8+ anos de experiência construi
 <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=rodrigodabreu&layout=compact&bg_color=F5F5F0&title_color=DE7356&text_color=0D0D0D&hide_border=true" alt="Top Langs"/>
 </p>
 
+
+<details>
+<summary>🇧🇷 Ler em português</summary>
+<br/>
+
+Sou Engenheiro de Software Backend Sênior, com 8+ anos de experiência construindo e modernizando sistemas críticos para o setor bancário na **Unicred do Brasil**. Minha stack principal é Java, Spring Boot e Kafka, com foco em microsserviços e arquitetura orientada a eventos. Minha formação em Administração, somada à Análise e Desenvolvimento de Sistemas, me dá uma leitura mais ampla do lado de negócio dos sistemas que construo.
+
+- 🔭 Atualmente trabalhando em: microsserviços de core-banking e integrações Open Finance Brasil
+- 💼 Experiência em produtos: Cobrança, Adquirência, Conta Corrente
+- 💬 Fale comigo sobre: sistemas distribuídos, arquitetura de eventos, backend Java
+- 📫 Como me encontrar: rodrigodiasdeabreu@gmail.com
+- 🌐 Portfólio completo: [rodrigodabreu.github.io](https://rodrigodabreu.github.io/)
+
+</details>
 ---
