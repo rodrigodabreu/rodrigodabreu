@@ -1,71 +1,57 @@
-<div align="center">
+# Hi there 👋,  I'm [Rodrigo Abreu!](https://github.com/rodrigodabreu/)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,100:DE7356&height=200&section=header&text=Rodrigo%20Abreu&fontSize=42&fontColor=F5F5F0&fontAlignY=38&desc=Senior%20Backend%20Engineer%20%7C%20Banking%20%26%20Fintech&descAlignY=58&descColor=A3A19C&animation=fadeIn" width="100%" alt="header"/>
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/rodrigodabreu)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/rodabreu/)
+![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)
 
-<a href="https://rodrigodabreu.github.io/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-rodrigodabreu.github.io-DE7356?style=flat-square"></a>
-<a href="https://www.linkedin.com/in/rodrigodabreu"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white"></a>
-<a href="mailto:rodrigodiasdeabreu@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white"></a>
+### Glad to see you here! 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rodrigodabreu&label=Profile%20views&color=0e75b6&style=flat" alt="rodrigodabreu" /> </p>
 
-</div>
 
+I'm a Senior Backend Software Engineer with 8+ years of experience building and modernizing mission-critical systems for the banking sector at **Unicred do Brasil**. My core stack is Java, Spring Boot, and Kafka, with a focus on microservices and event-driven architecture. My background in Business Administration alongside Systems Analysis & Development gives me a broader read on the business side of the systems I build.
+
+- 🔭 Currently working on: core-banking microservices and Open Finance Brazil integrations
+- 💼 Product experience: Collections, Acquiring, Checking Accounts
+- 💬 Ask me about: distributed systems, event-driven architecture, Java backend
+- 📫 How to reach me: rodrigodiasdeabreu@gmail.com
+- 🌐 Full portfolio: [rodrigodabreu.github.io](https://rodrigodabreu.github.io/)
+
+<details>
+<summary>🇧🇷 Ler em português</summary>
 <br/>
 
-```yaml
-rodrigo:
-  role: "Senior Backend Engineer"
-  experience: "8+ years"
-  domain: ["Banking", "Fintech", "Open Finance Brazil"]
-  focus: ["Microservices", "Event-driven architecture", "Distributed systems"]
-  currently_at: "Unicred do Brasil"
-  based_in: "Brazil"
-  open_to: "Senior Backend Engineer / Software Engineer — Brazil or remote abroad"
-```
+Sou Engenheiro de Software Backend Sênior, com 8+ anos de experiência construindo e modernizando sistemas críticos para o setor bancário na **Unicred do Brasil**. Minha stack principal é Java, Spring Boot e Kafka, com foco em microsserviços e arquitetura orientada a eventos. Minha formação em Administração, somada à Análise e Desenvolvimento de Sistemas, me dá uma leitura mais ampla do lado de negócio dos sistemas que construo.
 
-I build and modernize mission-critical backend systems for the banking sector — REST APIs, event-driven services with Kafka, and Open Finance Brazil integrations. My background in Business Administration alongside Systems Development gives me a broader read on the business side of the systems I build.
+- 🔭 Atualmente trabalhando em: microsserviços de core-banking e integrações Open Finance Brasil
+- 💼 Experiência em produtos: Cobrança, Adquirência, Conta Corrente
+- 💬 Fale comigo sobre: sistemas distribuídos, arquitetura de eventos, backend Java
+- 📫 Como me encontrar: rodrigodiasdeabreu@gmail.com
+- 🌐 Portfólio completo: [rodrigodabreu.github.io](https://rodrigodabreu.github.io/)
 
-## Stack
+</details>
+
+### Languages and Tools:
 
 <div align="center">
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![Qlik Replicate](https://img.shields.io/badge/Qlik_Replicate-231F20?style=for-the-badge&logo=qlik&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![SqlServer](https://img.shields.io/badge/SqlServer-4169E1?style=for-the-badge&logo=sql-server&logoColor=white)
 ![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Dynatrace](https://img.shields.io/badge/Dynatrace-F46800?style=for-the-badge&logo=dynatrace&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
+<p align="left">
+<img src="https://github-stats-extended.vercel.app/api?username=rodrigodabreu&count_private=true&show_icons=true&include_all_commits=true&bg_color=F5F5F0&title_color=DE7356&icon_color=E88F76&text_color=0D0D0D&hide_border=true" alt="Rodrigo's GitHub Stats"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=rodrigodabreu&layout=compact&bg_color=F5F5F0&title_color=DE7356&text_color=0D0D0D&hide_border=true" alt="Top Langs"/>
+</p>
 
-## GitHub stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=rodrigodabreu&show_icons=true&count_private=true&hide_border=true&bg_color=0D0D0D&title_color=DE7356&icon_color=E88F76&text_color=F5F5F0" width="49%" alt="GitHub stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigodabreu&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=DE7356&text_color=F5F5F0" width="35%" alt="Top languages"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rodrigodabreu&hide_border=true&background=0D0D0D&stroke=262626&ring=DE7356&fire=DE7356&currStreakLabel=F5F5F0&sideLabels=A3A19C&currStreakNum=F5F5F0&sideNums=F5F5F0&dates=6B6963" width="65%" alt="GitHub streak"/>
-
-</div>
-
-## Contribution graph
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/rodrigodabreu/rodrigodabreu/output/snake.svg" width="100%" alt="contribution snake animation"/>
-
-</div>
-
-> [!NOTE]
-> The snake animation above renders from a scheduled GitHub Action ([Platane/snk](https://github.com/Platane/snk)) that turns your contribution graph into an animated snake. It needs a small workflow file committed to this repo — see setup below.
-
-## Connect
-
-<div align="center">
-
-**[rodrigodabreu.github.io](https://rodrigodabreu.github.io/)** — portfolio, full experience, and contact
-
-</div>
+---
