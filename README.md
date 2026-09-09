@@ -10,8 +10,8 @@
 
 I'm a Senior Backend Software Engineer with 8+ years of experience building and modernizing mission-critical systems for the banking sector at **Unicred do Brasil**. My core stack is Java, Spring Boot, and Kafka, with a focus on microservices and event-driven architecture. My background in Business Administration alongside Systems Analysis & Development gives me a broader read on the business side of the systems I build.
 
-- 🔭 Currently working on: core-banking microservices and Open Finance Brazil integrations
-- 💼 Product experience: Collections, Acquiring, Checking Accounts
+- 🔭 Currently working on: core-banking microservices
+- 💼 Product experience: Collections, Acquiring, Checking Accounts and Open Finance Brazil
 - 💬 Ask me about: distributed systems, event-driven architecture, Java backend
 - 📫 How to reach me: rodrigodiasdeabreu@gmail.com
 - 🌐 Full portfolio: [rodrigodabreu.github.io](https://rodrigodabreu.github.io/)
